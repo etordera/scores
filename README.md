@@ -8,6 +8,12 @@ Some music composed and/or played by me.
 |2020 January|doio|[MSCZ](piano/doio.mscz)|[PDF](piano/doio.pdf)|[Youtube](https://www.youtube.com/watch?v=sbOs1JjA74M)|
 
 
+## My compositions for classical guitar
+
+|Date|Title|Musescore|PDF|Video|
+|:---:|:---|:---:|:---:|:---:|
+|1998 April|amni|[MSCZ](guitar/amni.mscz)|[PDF](guitar/amni.pdf)|X|
+
 ## Music from other composers played by me
 
 |Composer|Title|Video|
